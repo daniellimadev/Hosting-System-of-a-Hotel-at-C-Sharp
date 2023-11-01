@@ -1,4 +1,4 @@
-# Hosting-System-of-a-Hotel-at-C-Sharp
+# Hosting-System-of-a-Hotel-at-C#
 
 DIO - .NET Trail - Exploring the C# language
 
